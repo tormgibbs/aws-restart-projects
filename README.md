@@ -24,19 +24,19 @@ This repository contains images and documentation for a project that involves:
 This repository contains images documenting various stages of the project. Here's what you'll find:
 
 ## Aurora RDS Setup
-![Aurora RDS instance setup](./images/aurora-rds-setup.png)
+![Aurora RDS instance setup](./aurora-rds-setup.png)
 
 ## Establishing SSH Connection
-![Establishing SSH connection to EC2](./images/ssh-connection.png)
+![Establishing SSH connection to EC2](./ssh-connection.png)
 
 ## Web Application Code Snippet
-![Snippet of the web application code](./images/web-app-code.png)
+![Snippet of the web application code](./web-app-code.png)
 
 ## Database Interaction
-![Demonstration of data being stored in the database](./images/database-interaction.png)
+![Demonstration of data being stored in the database](./database-interaction.png)
 
 ## Running Web Application
-![The web application in action](./images/running-web-app.png)
+![The web application in action](./running-web-app.png)
 
 
 ## 🌟 Key Features
